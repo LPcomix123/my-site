@@ -1,4 +1,4 @@
-# my-sitev2
+# my-site
 this is my really cool site
 
 it shows pics and text and links and im proud considering its the first time ive coded a 
