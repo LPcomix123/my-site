@@ -3,6 +3,9 @@ body{
     color: palevioletred;
     font-size: 60px;
     text-align: left;
+    background-image: url('mainbg.png');
+    background-size: cover;
+    font-family: 'Fredoka';
 }
 
 .learning{
@@ -10,4 +13,12 @@ body{
     color: greenyellow;
     text-align: center;
     font-size: 30px;
+    font-family: 'Pixelify Sans';
+}
+
+.links{
+    background-color:aquamarine;
+    background-size:auto;
+    font-size: 30px;
+    text-align: right;
 }
